@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="https://files.catbox.moe/ekqa35.png" width="200px" style="border-radius: 50%; box-shadow: 0 0 30px #b026ff;" alt="YUBBI21 Logo">
 
 <h1 style="color:#b026ff; text-shadow:0 0 10px #b026ff, 0 0 20px #b026ff, 0 0 40px #ff00ff;">
 🚀 YUBBI21 🚀
